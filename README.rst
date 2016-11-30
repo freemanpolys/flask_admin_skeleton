@@ -1,14 +1,12 @@
-Base Skeleton to start your application using Flask-AppBuilder
+Base Skeleton to start your application using Flask Admin
 --------------------------------------------------------------
 
 - Install it::
-
-	pip install flask-appbuilder
-	git clone https://github.com/dpgaspar/Flask-AppBuilder-Skeleton.git
-
+	git clone git@github.com:freemanpolys/flask_admin_skeleton.git
+	pip install -r requirements.txt
 - Run it::
 
-	fabmanager run
+	python run.py
 
 
 That's it!!

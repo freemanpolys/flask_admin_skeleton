@@ -1,0 +1,4 @@
+flask_admin
+flask
+flask_sqlalchemy
+livereload
